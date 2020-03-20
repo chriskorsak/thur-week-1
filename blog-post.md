@@ -2,7 +2,7 @@
 
 I started my day with one of my favorite foods, which is cereal. Do you think cereal is _amazing?_
 
-My favorite vacation spot is simply anywhere where there is the following:
+My favorite vacation spot is simply anywhere where there are the following:
 
 1. Warm sunshine
 2. A beach
@@ -14,3 +14,5 @@ This sounds like **Hawaii** to me.
 Care to read more about Hawaii? Check out this [wikipedia page](https://en.wikipedia.org/wiki/Hawaii)
 
 ***
+
+### Boy 'Oh **Boy** 
