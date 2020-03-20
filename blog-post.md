@@ -21,3 +21,7 @@ Care to read more about Hawaii? Check out this [wikipedia page](https://en.wikip
 - Three
 
 ![An image of a cookie](http://lorempixel.com/400/200/)
+
+`code`
+> quote
+> quote
