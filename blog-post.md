@@ -12,3 +12,5 @@ My favorite vacation spot is simply anywhere where there is the following:
 This sounds like **Hawaii** to me.
 
 Care to read more about Hawaii? Check out this [wikipedia page](https://en.wikipedia.org/wiki/Hawaii)
+
+***
