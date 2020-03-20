@@ -15,4 +15,9 @@ Care to read more about Hawaii? Check out this [wikipedia page](https://en.wikip
 
 ***
 
-### Boy 'Oh **Boy** 
+### Boy 'Oh Boy
+- One
+- Two
+- Three
+
+![An image of a cookie](http://lorempixel.com/400/200/)
